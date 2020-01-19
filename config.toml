@@ -1,4 +1,4 @@
-baseURL = "mohamedhafezqo.github.io/"
+baseURL = "/mohamedhafezqo.github.io/"
 publishDir = "mohamedhafezqo.github.io"
 languageCode = "en-us"
 title = "Engineering Notes"
