@@ -1,4 +1,5 @@
-baseURL = "https://mohamedhafezqo.github.io"
+baseURL = "https://mohamedhafezqo.github.io/"
+publishDir = "mohamedhafezqo.github.io"
 languageCode = "en-us"
 title = "Engineering Notes"
 theme = "ezhil"
@@ -10,7 +11,6 @@ pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
 disqusShortname = "mohamedhafezqo"
-publishDir = "mohamedhafezqo.github.io"
 
 [params]
 	subtitle = "Written by **Mohamed Hafez** software engineer"
