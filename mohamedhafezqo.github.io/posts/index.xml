@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Engineering Notes</title>
+    <link>https://mohamedhafezqo.github.io/posts/</link>
+    <description>Recent content in Posts on Engineering Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2019 00:00:06 +0200</lastBuildDate>
+    
+	<atom:link href="https://mohamedhafezqo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cohesion In Object Oriented Design</title>
+      <link>https://mohamedhafezqo.github.io/posts/cohesion/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:06 +0200</pubDate>
+      
+      <guid>https://mohamedhafezqo.github.io/posts/cohesion/</guid>
+      <description>What is Cohesion? In software design is the degree of each elements in a class belongs together.
+What is Cohesion types?  Functional cohesion (best): This is high cohesion and that mean the class should be self-contained and with a single purpose in other words the class should do one thing and one thing very well. High cohesion is closely related to Single responsibility principle.    The elements within the object are directly related to the functionality that object is meant to provide.</description>
+    </item>
+    
+  </channel>
+</rss>

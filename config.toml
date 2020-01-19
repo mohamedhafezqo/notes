@@ -1,0 +1,35 @@
+baseURL = "https://mohamedhafezqo.github.io"
+languageCode = "en-us"
+title = "Engineering Notes"
+theme = "ezhil"
+paginate = 5
+
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "mohamedhafezqo"
+publishDir = "mohamedhafezqo.github.io"
+
+[params]
+	subtitle = "Written by **Mohamed Hafez** software engineer"
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+	mode = "auto" # "dark", "auto", "light"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/mohamedhafezqo"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
