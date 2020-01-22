@@ -9,13 +9,9 @@ Our main topic for this series is **how to write a good software** with these qu
 > The good software is high cohesion and loose coupling (Separation Of Concern).
 
 
-But what is the benifit from writing a good software
+## What is the benefit from writing a good software?
 
-
-## Maintainable, testable and readable Code
-
-Writing maintainable code helps increase productivity for us as a developers. Having highly maintainable code makes it easier to design new features and write code. Modular, component-based, and layered code increases productivity and reduces risk and cost when making changes.
-
+Writing **maintainable, testable and readable** code helps increase productivity for us as a developers. Having highly maintainable code makes it easier to design new features and write code. Modular, component-based, and layered code increases productivity and reduces risk and cost when making changes.
 
 ## What is Cohesion?
 In software design is the degree of each elements in a class belongs together.
