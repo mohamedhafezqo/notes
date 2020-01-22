@@ -5,6 +5,18 @@ description: "Cohesion in software design is the degree of each elements in a cl
 draft: false
 ---
 
+Our main topic for this series is **how to write a good software** with these quote
+> The good software is high cohesion and loose coupling (Separation Of Concern).
+
+
+But what is the benifit from writing a good software
+
+
+## Maintainable, testable and readable Code
+
+Writing maintainable code helps increase productivity for us as a developers. Having highly maintainable code makes it easier to design new features and write code. Modular, component-based, and layered code increases productivity and reduces risk and cost when making changes.
+
+
 ## What is Cohesion?
 In software design is the degree of each elements in a class belongs together.
 
@@ -20,6 +32,16 @@ In software design is the degree of each elements in a class belongs together.
 * We cannot always make it perfect, but we can at least strive for it.
 
 * The point is having classes the less elements we have a greate possibility for using them to be used in all the methods.
+
+### Examples:
+- Swiss watch each gear/piece SOLID and designed to do one thing.
+- Your smart phone you can use one app while installing, updating, and/or uninstalling another! That each app is self-contained is highly cohesive.
+
+### The benefits of high cohesion are:
+
+- **Readability** : (closely) related functions are contained in a single object.
+- **Maintainability** : debugging tends to be contained in a single object.
+- **Reusability** : classes that have less elements and concentrated functionalities are not polluted with useless functions.
 
 ---
 
@@ -90,19 +112,9 @@ $db->Store()
 - Break into seperated classes each performing one task.
 ---
 
-### The benefits of high cohesion are:
-
-- **Readability** : (closely) related functions are contained in a single object.
-- **Maintainability** : debugging tends to be contained in a single object.
-- **Reusability** : classes that have less elements and concentrated functionalities are not polluted with useless functions.
-
-
-### Example:
-- Swiss watch each gear/piece SOLID and designed to do one thing.
-- Your smart phone you can use one app while installing, updating, and/or uninstalling another! That each app is self-contained is highly cohesive.
-
 <!-- this part will change it's place with the code mess detector -->
-These are a simple insight to know if your object is low in cohensivnees:
+
+### Low cohesion insight detector:
 - Case 1: Your object has more than one responsibility.
 - Case 2: Your object has methods are not related to the class at all.
 - Case 3: Utility Class.
@@ -128,13 +140,3 @@ and how to do the best
 -- coupling => focus on complixty between the objects
 software guid design series
  -->
-
-Our main topic for this series is **how to write a good software** with this quote
-> The good software is high cohesion and loose coupling.
-
-But what is the benifit from writing a good software
-
-
-## Maintainable, testable and readable Code
-
-Writing maintainable code helps increase productivity for us as a developers. Having highly maintainable code makes it easier to design new features and write code. Modular, component-based, and layered code increases productivity and reduces risk and cost when making changes.
