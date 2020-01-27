@@ -105,7 +105,7 @@ $db->Store()
 ![Low cohesion](/posts/images/cohesion/coincidental_cohesion.jpg "Low cohesion")
 
 ### How to fix the coincidental cohesion?
-- Break arbitarily grouped parts into separated classes; each of which perform one task.
+- Break arbitrarily grouped parts into separated classes; each of which perform one task.
 ---
 
 <!-- this part will change it's place with the code mess detector -->
