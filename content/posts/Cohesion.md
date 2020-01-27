@@ -108,6 +108,13 @@ $db->Store()
 - Break arbitrarily grouped parts into separated classes; each of which perform one task.
 ---
 
+### Recap
+![flowchart for cohesion](/posts/images/cohesion/cohesion-in-software-as-a-flowchart-on-mohamedhafez-me.png "flowchart for cohesion")
+
+![good and bad cohesion](https://upload.wikimedia.org/wikipedia/commons/b/bc/Good%2C_bad_apps.png
+ "good and bad cohesion")
+
+
 <!-- this part will change it's place with the code mess detector -->
 
 ### Low cohesion insight detector:
@@ -119,6 +126,7 @@ $db->Store()
 ## Footnotes
 - [Cohesion in computer science](https://en.wikipedia.org/wiki/Cohesion_(computer_science))
 
+- Thanks for [@hedayasamy](https://github.com/hedayasamy) for your review.
 
 
 <!-- part introduction -->
@@ -129,7 +137,6 @@ $db->Store()
 [] 01. Objective
 [] 02. what is the bad side as side effects?
 [] 03. what is the benifit -> it is the objective
-[] 04. what is the benifit -> it is the objective
 
 what is cohesion and it's types also the coupling
 and how to do the best
