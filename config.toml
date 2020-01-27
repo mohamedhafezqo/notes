@@ -27,6 +27,11 @@ icon = "github"
 url = "https://github.com/mohamedhafezqo"
 
 [[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://linkedin.com/in/mohamed-hafez-abdallah"
+
+[[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
