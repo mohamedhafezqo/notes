@@ -13,7 +13,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "mohamedhafezqo"
 
 [params]
-	subtitle = "Written by **Mohamed Hafez** software engineer"
+	subtitle = "Written by **Mohamed Hafez** software engineer @aqarmap.com"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "light" # "dark", "auto", "light"

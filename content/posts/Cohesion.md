@@ -126,7 +126,7 @@ $db->Store()
 ## Footnotes
 - [Cohesion in computer science](https://en.wikipedia.org/wiki/Cohesion_(computer_science))
 
-- Thanks for [@hedayasamy](https://github.com/hedayasamy) for your review.
+- Thanks [@hedayasamy](https://github.com/hedayasamy) for your review.
 
 
 <!-- part introduction -->
