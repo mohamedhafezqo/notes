@@ -9,17 +9,35 @@ pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
+googleAnalytics = "G-HVK8SB8KJ2"
 disqusShortname = "mohamedhafezqo"
 
 [params]
-	subtitle = "Written by **Mohamed Hafez** software engineer @aqarmap.com"
+	subtitle = "Written by **Mohamed Hafez** software engineer @fly365.com"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "light" # "dark", "auto", "light"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
 
 [[params.social]]
 name = "Github"
@@ -30,6 +48,11 @@ url = "https://github.com/mohamedhafezqo"
 name = "Linkedin"
 icon = "linkedin"
 url = "https://linkedin.com/in/mohamed-hafez-abdallah"
+
+[[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://www.youtube.com/channel/UC_57Z3KC1RzGRJMBYZGJYtA"
 
 [[params.social]]
 name = "RSS"

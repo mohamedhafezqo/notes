@@ -3,6 +3,7 @@ title: "Cohesion In Object Oriented Design"
 date: 2019-10-12T00:00:06+02:00
 description: "Cohesion in software design is the degree to which the elements of a certain class belong together."
 draft: false
+tags: [Software Engineering]
 ---
 
 Our main topic for this series is **how to write good software** with this quote
